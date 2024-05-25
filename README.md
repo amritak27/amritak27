@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amruta</h1>
+![Header](./github-header-image.png)
 <h3 align="center">Tech Enthusiast | Software Engineer | Committed to Quality Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritak27&label=Profile%20views&color=0e75b6&style=flat" alt="amritak27" /> </p>
