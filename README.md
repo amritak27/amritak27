@@ -1,3 +1,5 @@
+
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Amruta</h1>
 <h3 align="center">Tech Enthusiast | Software Engineer | Committed to Quality Code</h3>
 
