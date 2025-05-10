@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritak27&label=Profile%20views&color=0e75b6&style=flat" alt="amritak27" /> </p>
 
-- 🌱 I’m currently learning **Cloud, Full stack development**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amritak27](https://github.com/amritak27)
 
